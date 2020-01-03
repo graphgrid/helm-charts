@@ -3,12 +3,12 @@ entries:
   gg-base:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-01-02T16:13:18.695969-08:00"
+    created: "2020-01-02T16:21:01.973468-08:00"
     description: A Helm chart for Kubernetes
     digest: 7910c79fed688c556f7f84c8dc459d7ca91e14dff2825a14515fd2725e2efe71
     name: gg-base
     type: application
     urls:
-    - https://github.com/graphgrid/helm-charts/blob/gh-pages/gg-base-0.1.0.tgz
+    - https://graphgrid.github.io/helm-charts/gg-base-0.1.0.tgz
     version: 0.1.0
-generated: "2020-01-02T16:13:18.69006-08:00"
+generated: "2020-01-02T16:21:01.971569-08:00"
