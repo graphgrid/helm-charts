@@ -1,0 +1,17 @@
+apiVersion: v1
+data:
+  7687: "default/elasticsearch-master:9300"
+kind: ConfigMap
+metadata:
+  creationTimestamp: "2020-03-11T19:03:13Z"
+  labels:
+    app: nginx-ingress
+    chart: nginx-ingress-1.33.0
+    component: controller
+    heritage: Tiller
+    release: nginx-ingress
+  name: nginx-ingress-tcp
+  namespace: default
+  resourceVersion: "1436606"
+  selfLink: /api/v1/namespaces/default/configmaps/nginx-ingress-tcp
+  uid: f53da326-63ca-11ea-abcc-062982cdcf64
